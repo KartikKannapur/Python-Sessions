@@ -1,3 +1,3 @@
-Day1 - Agenda
+Day 1 - Agenda
 ===============
 TBD
