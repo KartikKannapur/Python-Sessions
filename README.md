@@ -7,6 +7,7 @@ Python Sessions at PESIT, Bangalore.
 Agenda
 ===============
 Day 1:
+
 1. Introduction to Programming in Python
 2. Python IDLE as a Calculator
 3. Variable declaration & raw_input()
