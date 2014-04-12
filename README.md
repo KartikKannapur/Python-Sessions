@@ -28,6 +28,7 @@ Day 2:
 6. Demo - Image Processing with SimpleCV
 7. Demo - Graph Plotting with matplotlib
 8. Demo - GUI
+9. Demo - Twitter and Python (Tentative)
 
 
 Resources
