@@ -1,4 +1,5 @@
 #Opens a local HTML document and prints out tags+data
+#Libs Needed - HTMLParser & urllib
 
 
 import urllib
