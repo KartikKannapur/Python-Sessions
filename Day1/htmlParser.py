@@ -1,4 +1,4 @@
-Opens a local HTML document and prints out tags+data
+#Opens a local HTML document and prints out tags+data
 
 
 import urllib
