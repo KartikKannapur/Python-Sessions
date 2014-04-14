@@ -2,6 +2,7 @@
 #A variable can be made available to all methods in the class.
 #Such a variable has to be declared as 'global' within every method that uses it
 #'self' must be used as a default argument when defining a method in a class
+#Eg. of usage - a=myclass()
 
 class myclass:
     
