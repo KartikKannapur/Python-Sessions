@@ -10,8 +10,8 @@ from PIL import Image
 row=[]
 col=[]
 
-pic1=Image.open("test5.png").convert("L")
-pic=Image.open("test2.jpg").convert("L")
+pic1=Image.open("pic1.png").convert("L")
+pic=Image.open("pic.jpg").convert("L")
 
 pix=pic.load()
 pix1=pic1.load()
