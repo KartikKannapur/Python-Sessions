@@ -3,6 +3,8 @@
 #The module can then be imported with - import modulename
 #Then, to use a function within the module - modulename.functionname()
 
+
+#Number of times number s appears in n
 def search(s,n):
     count=0
     a=[]
@@ -17,6 +19,8 @@ def search(s,n):
         i+=1
     return count
 
+
+#Prints all factors of number n
 def factors(n):
     a=[]
     for i in range(1,n+1):
@@ -25,6 +29,8 @@ def factors(n):
         i+=1
     return a
 
+
+#Checks if number n is prime or not
 def isprime(n):
     i=2
     flag=1
@@ -37,6 +43,7 @@ def isprime(n):
     else:
         return 0
 
+#Finds sum of all digits in a number
 def numsum(n):
     sum1=0
     l=len(str(n))
