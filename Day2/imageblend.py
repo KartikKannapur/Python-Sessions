@@ -1,5 +1,7 @@
 #External Libs Needed - Pillow or Python Imaging Library(PIL)
 #Blending of two pictures in grayscale
+'''pix,pix1 are pixel access objects ie. pointers to respective images
+Any changes made through them directly affect the respective image.'''
 
 import os
 import sys
