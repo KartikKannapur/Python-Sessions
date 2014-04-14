@@ -22,6 +22,6 @@ while count<10000:  #10001-1 because 2 is excluded in prev step
     if flag==0:
         count=count+1
         
-    num=num+2
+    num=num+2 #check only odd numbers to save time
     
 print (num-2) #Remove extra 2 added at end before while loop was broken
