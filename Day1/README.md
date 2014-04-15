@@ -6,7 +6,7 @@ Day 1 - Agenda
 4. String Manipulation
 5. Importing Libraries
 6. Loops & Conditionals
-7. Functions & Classes
+7. Functions
 8. Creating Modules
 9. Combined Demos: For Loop with Functions
 10. Project Euler Prob. Q1, Q7
