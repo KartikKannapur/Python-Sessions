@@ -1,13 +1,20 @@
 Introduction to Programming in Python :
 
 Python is an open-source, general-purpose, high-level, interpreted programming language.
-By interpreted we mean that it executes instructions directly, without previously compiling a program into machine-language instructions. The interpreter executes the program directly, translating each statement into machine code on the fly as and when required.
+By interpreted we mean that it executes instructions directly, without previously compiling a program into 
+machine-language instructions. The interpreter executes the program directly, translating each statement into 
+machine code on the fly as and when required.
 
 Python was created by Guido Van Rossum in the early 1990s.
 
-Python is extensively used for system administration - many vital components of Linux Distributions are written in it, NASA has used Python for its software systems and has adopted it as the standard scripting language for its Integrated Planning System. Python is also extensively used by Google to implement many components of its Web Crawler and Search Engine & Yahoo! for managing its discussion groups.
+Python is extensively used for system administration - many vital components of Linux Distributions are written in it, 
+NASA has used Python for its software systems and has adopted it as the standard scripting language for its 
+Integrated Planning System. Python is also extensively used by Google to implement many components of its 
+Web Crawler and Search Engine & Yahoo! for managing its discussion groups.
 
-Python has distributions available for Microsoft Windows, Apple Mac OS X, GNU/Linux, Web broswser environments and many other platforms.
+Python has distributions available for Microsoft Windows, Apple Mac OS X, GNU/Linux, Web broswser environments and 
+many other platforms.
+
 There are two common versions currently in use: 2.x and 3.x - backward incompatible (when this tutorial was written).
 
 
